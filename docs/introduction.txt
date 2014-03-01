@@ -1,0 +1,6 @@
+Windows下可直接双击DaemonBall.exe或DaemonBall.jar运行
+另外，本游戏要求用户必须装好JVM，本人在JVM1.5下测试通过
+
+本游戏由java编写，基本模仿小游戏搞怪碰碰球。
+本游戏所有IDE是Eclipse3.1.0，源文件在DaemonBall\src中，.class在DaemonBall\bin中。
+DaemonBall可直接导入到Eclipse中.
