@@ -1,6 +1,8 @@
 # DaemonBall
 
-It's a small desktop game written in Java. The project itself was a Java course project done in Dec 2005 when I was third year undergraduate, and started to learn Jave.
+It's a small desktop game written in pure Java. The project itself was a Java course project done in Dec 2005 when I was third year undergraduate, and started to learn Jave.
+
+The project used AWT and Swing as the UI library.
 
 ## Snapshot
 ![Main UI Snapshot][img_main_ui]
